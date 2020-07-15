@@ -1,3 +1,7 @@
+if TRUE
+  puts "This code runs!"
+end
+
 run_code_inside = TRUE
 puts "Code before if...end"
 if run_code_inside
